@@ -1,0 +1,20 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+xcuserdata/
+
+# CocoaPods
+Pods/
+Podfile.lock
+
+# 编译产物
+*.app
+*.ipa
+*.dSYM
+
+# 日志
+*.log
